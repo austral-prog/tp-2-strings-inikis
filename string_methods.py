@@ -41,6 +41,3 @@ Linea 3"""
     print(f"Reverso: {inverso}")
     print(f"Formato: {combinacion}")
     print(multilinea)
-    #HIJO DE RE MIL PUTA
-
-string_methods()
